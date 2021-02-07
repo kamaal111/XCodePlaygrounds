@@ -11,12 +11,14 @@
 		2C7D0E812599FA6E001F3D1D /* DynamicMemberLookup.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DynamicMemberLookup.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7D0E822599FA73001F3D1D /* PropertyWrapper.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PropertyWrapper.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7D0E832599FA79001F3D1D /* StaticString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StaticString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6004358025CFF2E300784DAE /* Codable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Codable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2C7D0E792599F800001F3D1D = {
 			isa = PBXGroup;
 			children = (
+				6004358025CFF2E300784DAE /* Codable.playground */,
 				2C7D0E832599FA79001F3D1D /* StaticString.playground */,
 				2C7D0E822599FA73001F3D1D /* PropertyWrapper.playground */,
 				2C7D0E812599FA6E001F3D1D /* DynamicMemberLookup.playground */,
