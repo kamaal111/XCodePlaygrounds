@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		2C41C6E825EA7BF100A9CF7F /* Indirect.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Indirect.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7D0E802599FA65001F3D1D /* CallAsFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CallAsFunction.playground; sourceTree = "<group>"; };
 		2C7D0E812599FA6E001F3D1D /* DynamicMemberLookup.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DynamicMemberLookup.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7D0E822599FA73001F3D1D /* PropertyWrapper.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PropertyWrapper.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -18,6 +19,7 @@
 		2C7D0E792599F800001F3D1D = {
 			isa = PBXGroup;
 			children = (
+				2C41C6E825EA7BF100A9CF7F /* Indirect.playground */,
 				2CE3F34525D03D8C00F0522E /* Codable.playground */,
 				2C7D0E832599FA79001F3D1D /* StaticString.playground */,
 				2C7D0E822599FA73001F3D1D /* PropertyWrapper.playground */,
